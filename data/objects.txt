@@ -1,0 +1,15 @@
+bare land
+building
+cemetery
+cropland
+forest
+golf course
+harbor
+parking lot
+shadow
+sports field
+stadium
+storage tank
+traffic hub
+vegetation
+water area
