@@ -14,7 +14,7 @@ This is an official implementation of the VLM-LU framework.
 
 #### 1. Data preparation
 
-The Multi-CUN dataset and the relevant data required for the experiments are released at [Baidu Drive](https://pan.baidu.com/s/1XoN8VL9BDJ4gbQU0Pe_0Jw) [Code: kqe8]. You can download the dataset, unzip it, and place it in the ``data`` directory for experimental use.
+The Multi-CUN dataset and the relevant data required for the experiments are released at [Baidu Drive](https://pan.baidu.com/s/1vMgl26fT2_D2_SNEY4Vzhw) [Code: iksq]. You can download the dataset, unzip it, and place it in the ``data`` directory for experimental use.
 
 #### 2. Caption generation
 
