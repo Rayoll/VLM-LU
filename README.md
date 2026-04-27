@@ -52,5 +52,17 @@ python main.py --labelPath <path to labels> --graphPath <path to graph> --graphI
 
 -------
 
-If you use VLM-LU in your research, please cite our paper.
+``````
+@article{yang2026large,
+  title={Large vision-language model knowledge guided multi-source urban land-use mapping: A case study of representative cities across six continents},
+  author={Yang, Ruiyi and Su, Yu and Liu, Yinhe and Ma, Ailong and Zhong, Yanfei},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={237},
+  pages={52--76},
+  year={2026},
+  publisher={Elsevier}
+}
+``````
+
+
 
